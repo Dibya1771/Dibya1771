@@ -1,9 +1,10 @@
-![MasterHead](http://drive.google.com/uc?export=view&id=1Db0lute4xW1KP6eZOIOOFQoFJDtEOrkR)
-
+<!--  ![MasterHead](http://drive.google.com/uc?export=view&id=1Db0lute4xW1KP6eZOIOOFQoFJDtEOrkR) -->
+![back profile github](https://github.com/Dibya1771/Dibya1771/assets/108383867/0f050baa-479d-4c64-bb75-51d261f60b37)
 <h1 align="center">Hii <img width="50" src="https://media2.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47uujzno3fvrtgdfta9g4upsvksu7gjdrf2dre703a&ep=v1_gifs_related&rid=giphy.gif&ct=s" />, I'm Dibya Ranjan Rath (Biku)</h1>
 <h3 align="center">A Creative Web Developer with a passion for building user-friendly websites</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya1771&label=Profile%20views&color=0e75b6&style=flat" alt="dibya1771" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya1771&label=Profile%20views&color=0e75b6&style=flat" alt="dibya1771" /> </p>  
+
 
 # 💫 About Me:
 
