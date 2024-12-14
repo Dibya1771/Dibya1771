@@ -1,7 +1,7 @@
 <!--  ![MasterHead](http://drive.google.com/uc?export=view&id=1Db0lute4xW1KP6eZOIOOFQoFJDtEOrkR) -->
 ![back profile github](https://github.com/Dibya1771/Dibya1771/assets/108383867/0f050baa-479d-4c64-bb75-51d261f60b37)
 <h1 align="center">Hii <img width="50" src="https://media2.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47uujzno3fvrtgdfta9g4upsvksu7gjdrf2dre703a&ep=v1_gifs_related&rid=giphy.gif&ct=s" />, I'm Dibya Ranjan Rath (Biku)</h1>
-<h3 align="center">A Creative Web Developer with a passion for building user-friendly websites</h3>
+<h3 align="center">A Creative Web Developer passionate about building user-friendly websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya1771&label=Profile%20views&color=0e75b6&style=flat" alt="dibya1771" /> </p>  
 
@@ -10,13 +10,13 @@
 
 <img align="right" alt="Coding" width="390" src="http://drive.google.com/uc?export=view&id=1FSydKuN068o7aOM-HbBP2BrhCbCDMaYL">
 
-- 🔭 I’m currently working on **React.js Projects**
+- 🔭 I’m currently working on **AI/ML-Django projects**
 
-- 🌱 I’m currently learning **MERN, Ethical Hacking**
+- 🌱 I’m currently learning **A/ML/DL and frameworks to integrate it as a software**
 
 - 📚 I'm passionate about **continuous learning and exploring new technologies**
 
-- 💬 Ask me about **React,JSP,Servlet,Java,HTML,CSS,JavaScript.DBMS**
+- 💬 Ask me about **AI,ML,Spring boot,React,JSP,Servlet,Java,HTML,CSS,JavaScript,DBMS,Django**
 
 - 📫 How to reach me **dibyaranjanrath02@gmail.com**
 
